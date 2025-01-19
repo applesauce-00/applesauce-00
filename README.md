@@ -5,6 +5,8 @@
 🌟 Striving to turn ideas into impactful projects. <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=applesauce-00)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
 
 <!--
 **applesauce-00/applesauce-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
